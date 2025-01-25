@@ -58,7 +58,7 @@
 <h2 align="center">📝 Projects 📝</h2>
 
 <p align="center">
-  
+  <br>
 </p>
 
 <hr />
