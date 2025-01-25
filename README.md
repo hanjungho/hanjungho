@@ -85,10 +85,10 @@
 <h2 align="center">📱 Contacts 📱</h2>
 
 <p align="center">
-  <a href="https://hanstyle.tistory.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://hanstyle.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge" alt="Blog">
   </a>
-  <a href="mailto:thegamerhan@gmail.com" style="text-decoration: none;">
+  <a href="mailto:thegamerhan@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
