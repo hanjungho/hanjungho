@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # AC RATING
-[![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)](https://solved.ac/han000122/)
+[![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han000122)](https://solved.ac/han000122/)
