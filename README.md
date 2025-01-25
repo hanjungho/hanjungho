@@ -1,19 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:9473B5,100:9473B5&section=header" alt="freevuehub" />
+</p>
 
-<!--
-**hanjungho/hanjungho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tech-Blog](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white&link=https://hanstyle.tistory.com)]([https://djawnstj.tistory.com](https://hanstyle.tistory.com/))
+[![Gmail-Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thegamerhan@gmail.com)](mailto:thegamerhan@gmail.com)
 
 # AC RATING
 [![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han000122)](https://solved.ac/han000122/)
+
+<p align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:9473B5,100:9473B5&section=footer" alt="freevuehub" />
+</p>
