@@ -2,7 +2,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:9473B5,100:9473B5&section=header" alt="freevuehub" />
 </p>
 
-[![Tech-Blog](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white&link=https://hanstyle.tistory.com)]([https://djawnstj.tistory.com](https://hanstyle.tistory.com/))
+[![Tech-Blog](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white&link=https://hanstyle.tistory.com)](https://hanstyle.tistory.com/)
 [![Gmail-Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thegamerhan@gmail.com)](mailto:thegamerhan@gmail.com)
 
 # AC RATING
