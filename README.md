@@ -2,6 +2,10 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:9473B5,100:9473B5&section=header" alt="freevuehub" />
 </p>
 
+<p>
+  <h1 align="center">안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</p>
+
 <hr />
 
 # 💻 Tech Stacks
