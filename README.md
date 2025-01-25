@@ -16,9 +16,8 @@
 <hr />
 
 # AC RATING
-<p align="center"> 
-  [![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han000122)](https://solved.ac/han000122/)
-</p>
+[![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han000122)](https://solved.ac/han000122/)
+
 <p align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:9473B5,100:9473B5&section=footer" alt="freevuehub" />
 </p>
