@@ -102,8 +102,8 @@
   <br>
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hanjungho&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=171B21&icon_color=9473B5" /><br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanjungho&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanjungho&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanjungho&theme=material_palenight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanjungho&theme=material_palenight" />
   </p>
   <br>
 </details>
