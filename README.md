@@ -6,6 +6,8 @@
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 안녕하세요. 한정호입니다.</h1>
 </p>
 
+<br>
+
 <hr />
 
 <h2 align="center">💻 Tech Stacks 💻</h2>
@@ -53,13 +55,17 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?&style=for-the-badge&logo=wolfram&logoColor=white" alt="MATLAB">
 </p>
 
+<br>
+
 <hr />
 
 <h2 align="center">📝 Projects 📝</h2>
 
 <p align="center">
-  <br>
+  
 </p>
+
+<br>
 
 <hr />
 
@@ -72,18 +78,22 @@
   프로그래머스 데브코스 생성형 AI활용 백엔드<br>
 </p>
 
+<br>
+
 <hr />
 
 <h2 align="center">📱 Contacts 📱</h2>
 
 <p align="center">
-  <a href="https://hanstyle.tistory.com/" target="_blank">
+  <a href="https://hanstyle.tistory.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge" alt="Blog">
   </a>
-  <a href="mailto:thegamerhan@gmail.com">
+  <a href="mailto:thegamerhan@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<br>
 
 <hr />
 
