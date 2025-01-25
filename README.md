@@ -99,19 +99,23 @@
 
 <details align="center">
 <summary>📊 GitHub Stats 📊</b></summary>
+  <br>
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hanjungho&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=171B21&icon_color=9473B5" /><br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanjungho&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanjungho&theme=github_dark" />
   </p>
+  <br>
 </details>
 <details align="center">
 <summary>⭐️ AC RATING ⭐️</b></summary>
+  <br>
   <p align="center">
     <a href="https://solved.ac/han000122/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han000122" alt="Solved.ac-Profile" />
     </a>
   </p>
+  <br>
 </details>
 
 <p align="center">
