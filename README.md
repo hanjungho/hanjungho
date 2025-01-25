@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<h3 align="center">AI/DL</h3>
+<h3 align="center">AI/ML</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
