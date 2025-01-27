@@ -15,6 +15,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://tinyurl.com/dtjz9vv5" alt="JAVA">
+  <!--   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> -->
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -26,28 +27,43 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<!--   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"> -->
 </p>
 
 <h3 align="center">Back-end</h3>
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> -->
+<!--   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> -->
+<!--   <img src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django"> -->
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-<h3 align="center">AI/ML</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<!--   <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
+<!--   <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> -->
+<!--   <img src="https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> -->
 </p>
 
 <h3 align="center">Infrastructure</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<!--   <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"> -->
+<!--   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
+<!--   <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
+</p>
+
+<h3 align="center">CI/CD</h3>
+<p align="center">
+<!--   <img src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> -->
+<!--   <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> -->
+</p>
+
+<h3 align="center">AI/ML</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
 <h3 align="center">ETC</h3>
