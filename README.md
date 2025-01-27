@@ -30,7 +30,7 @@
 
 <h3 align="center">Back-end</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+<!--   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> -->
 </p>
 
 <h3 align="center">Database</h3>
