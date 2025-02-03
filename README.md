@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:000000,100:9473B5&section=header" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:000000,100:000000&section=header" alt="freevuehub" />
 </p>
 
 <p>
@@ -135,5 +135,5 @@
 </details>
 
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:000000,100:9473B5&section=footer" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:000000,100:000000&section=footer" alt="freevuehub" />
 </p>
