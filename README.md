@@ -14,7 +14,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-<!--   <img src="https://tinyurl.com/dtjz9vv5" alt="JAVA"> -->
+  <img src="https://tinyurl.com/dtjz9vv5" alt="JAVA">
 <!--   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> -->
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -39,7 +39,7 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<!--   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
 <!--   <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
 <!--   <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> -->
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> -->
