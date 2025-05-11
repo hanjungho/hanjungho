@@ -12,14 +12,32 @@
 
 <h2 align="center">💻 Tech Stacks 💻</h2>
 
-<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://tinyurl.com/dtjz9vv5" alt="JAVA">
 <!--   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> -->
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<!--   <img src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django"> -->
+<!--   <img src="https://img.shields.io/badge/express-092E20.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> -->
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<!--   <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
+<!--   <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> -->
+<!--   <img src="https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> -->
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<!--   <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"> -->
+<!--   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
+<!--   <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
+<!--   <img src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> -->
+<!--   <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> -->
+</p>
+
+<!--   <h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://tinyurl.com/dtjz9vv5" alt="JAVA">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 <!--   <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"> -->
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<!--     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
 <h3 align="center">Front-end</h3>
@@ -28,14 +46,14 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <!--   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"> -->
-</p>
+<!--   </p>
 
 <h3 align="center">Back-end</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 <!--   <img src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django"> -->
-</p>
+<!--   </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
@@ -43,7 +61,7 @@
 <!--   <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
 <!--   <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> -->
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> -->
-</p>
+<!--   </p>
 
 <h3 align="center">Infrastructure</h3>
 <p align="center">
@@ -52,13 +70,13 @@
 <!--   <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"> -->
 <!--   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
 <!--   <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
-</p>
+<!--   </p>
 
 <h3 align="center">CI/CD</h3>
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> -->
 <!--   <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> -->
-</p>
+<!--   </p>
 
 <h3 align="center">AI/ML</h3>
 <p align="center">
@@ -69,7 +87,7 @@
 <h3 align="center">ETC</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?&style=for-the-badge&logo=wolfram&logoColor=white" alt="MATLAB">
-</p>
+</p> -->
 
 <br>
 
@@ -101,9 +119,9 @@
 <h2 align="center">📱 Contacts 📱</h2>
 
 <p align="center">
-  <a href="https://hanstyle.tistory.com/" target="_blank">
+<!--   <a href="https://hanstyle.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge" alt="Blog">
-  </a>
+  </a> -->
   <a href="mailto:thegamerhan@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
