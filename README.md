@@ -96,7 +96,11 @@
 <h2 align="center">📝 Projects 📝</h2>
 
 <p align="center">
-  
+  <a href="https://github.com/prgrms-aibe-devcourse/AIBE1_FinalProject_LastDance_BE">우리.zip</a> - 자취 및 공동생활을 위한 종합 생활관리 플랫폼 <br>
+  <br>
+  <a href="https://github.com/prgrms-aibe-devcourse/AIBE1-Project2-Team07-Backend">PetTalk</a> - 애완동물 훈련사 매칭 및 커뮤니티 플랫폼 <br>
+  <br>
+  <a href="https://github.com/AIBE-chill-TEAM/travel-secretary">여행비서</a> - AI 기반 여행 도우미 서비스 <br>
 </p>
 
 <br>
