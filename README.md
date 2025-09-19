@@ -146,7 +146,7 @@
   <br>
 </details>
 <details align="center">
-<summary>⭐️ AC RATING ⭐️</b></summary>
+<summary>⭐️ 백준 RATING ⭐️</b></summary>
   <br>
   <p align="center">
     <a href="https://solved.ac/han000122/">
